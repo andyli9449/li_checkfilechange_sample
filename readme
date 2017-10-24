@@ -1,0 +1,5 @@
+make
+./sample_X86_64 &
+create or delete some file in current directory 
+if want quit 
+: ps and kill pid
